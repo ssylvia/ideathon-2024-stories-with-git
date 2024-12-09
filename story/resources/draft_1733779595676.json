@@ -1,0 +1,132 @@
+{
+  "nodes": {
+    "n-mluocj": {
+      "data": {
+        "title": "Versioned Story Test",
+        "titlePanelVerticalPosition": "top",
+        "titlePanelStyle": "gradient",
+        "byline": "Stephen Sylvia",
+        "summary": "Initial Draft",
+        "titlePanelHorizontalPosition": "start",
+        "type": "minimal"
+      },
+      "type": "storycover"
+    },
+    "n-i1zTVb": {
+      "data": {
+        "type": "h4",
+        "text": ""
+      },
+      "type": "text"
+    },
+    "n-7AjVf2": {
+      "data": {
+        "type": "paragraph",
+        "text": "Every evening, as the sun began its descent, Clara would find herself drawn to the edge of the cliff overlooking the vast ocean. The sunsets here were unlike any she had seen before, painting the sky with hues of orange, pink, and purple that seemed to dance on the waves below. The rhythmic sound of the crashing waves provided a soothing soundtrack to the visual symphony unfolding before her. This ritual had become a sacred part of her day, a moment of peace and reflection amidst the chaos of life.\n\nOn one particular evening, as the horizon swallowed the last sliver of sunlight, Clara felt a profound sense of gratitude. The sunset was a reminder of the beauty in endings and the promise of new beginnings. As the first stars began to twinkle in the deepening twilight, she made her way back home, carrying with her the warmth and serenity of the sunset. It was a reminder that no matter how turbulent the day had been, there would always be another sunset to look forward to, another chance to pause and appreciate the simple, yet profound, beauty of the world."
+      },
+      "type": "text"
+    },
+    "n-P5qwM3": {
+      "data": {
+        "links": []
+      },
+      "type": "navigation",
+      "config": {
+        "isHidden": true
+      }
+    },
+    "n-zcOYPB": {
+      "data": {
+        "cells": {
+          "0": {
+            "0": {
+              "value": "<strong>1</strong>"
+            },
+            "1": {
+              "value": "<strong>2</strong>"
+            },
+            "2": {
+              "value": "<strong>3</strong>"
+            }
+          },
+          "1": {
+            "0": {
+              "value": "a"
+            },
+            "1": {
+              "value": "b"
+            },
+            "2": {
+              "value": "c"
+            }
+          },
+          "2": {
+            "0": {
+              "value": "d"
+            },
+            "1": {
+              "value": "e"
+            },
+            "2": {
+              "value": "f"
+            }
+          }
+        },
+        "numColumns": 3,
+        "numRows": 3
+      },
+      "type": "table",
+      "config": {
+        "size": "full"
+      }
+    },
+    "n-Ei7mst": {
+      "data": {
+        "attribution": "",
+        "content": ""
+      },
+      "type": "attribution"
+    },
+    "n-jBLgGw": {
+      "config": {
+        "coverDate": "first-published"
+      },
+      "type": "story",
+      "children": [
+        "n-mluocj",
+        "n-P5qwM3",
+        "n-7AjVf2",
+        "n-zcOYPB",
+        "n-i849Y8"
+      ],
+      "data": {
+        "storyTheme": "r-ctgD30"
+      }
+    },
+    "n-i849Y8": {
+      "children": [
+        "n-i1zTVb",
+        "n-YUnMN3",
+        "n-Ei7mst"
+      ],
+      "type": "credits"
+    },
+    "n-YUnMN3": {
+      "type": "text",
+      "data": {
+        "type": "paragraph",
+        "text": ""
+      }
+    }
+  },
+  "resources": {
+    "r-ctgD30": {
+      "data": {
+        "themeId": "summit",
+        "themeBaseVariableOverrides": {}
+      },
+      "type": "story-theme"
+    }
+  },
+  "root": "n-jBLgGw"
+}
