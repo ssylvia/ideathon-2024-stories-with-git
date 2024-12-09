@@ -1,0 +1,13 @@
+{
+  "name": "ideathon-2024-stories-with-git",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "import": "storymaps-file-manager import",
+    "export": "storymaps-file-manager export"
+  },
+  "author": "",
+  "devDependencies": {
+    "storymaps-file-manager": "file:../storymaps-file-manager"
+  }
+}
