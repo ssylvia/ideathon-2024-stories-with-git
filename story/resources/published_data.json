@@ -9,7 +9,7 @@
         "type": "minimal",
         "title": "Versioned Story Test",
         "byline": "Stephen Sylvia",
-        "summary": "Version 2",
+        "summary": "Version 3",
         "titlePanelHorizontalPosition": "start"
       }
     },
@@ -115,7 +115,7 @@
       "type": "story-theme",
       "data": {
         "themeBaseVariableOverrides": {},
-        "themeId": "summit"
+        "themeId": "tidal"
       }
     }
   }

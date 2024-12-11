@@ -9,7 +9,7 @@
         "type": "minimal",
         "title": "Versioned Story Test",
         "byline": "Stephen Sylvia",
-        "summary": "Version 2",
+        "summary": "Version 3",
         "titlePanelHorizontalPosition": "start"
       }
     },
@@ -74,49 +74,6 @@
         "attribution": ""
       }
     },
-    "n-P5qwM3": {
-      "type": "navigation",
-      "data": {
-        "links": []
-      },
-      "config": {
-        "isHidden": true
-      }
-    },
-    "n-RtY10h": {
-      "type": "image",
-      "data": {
-        "image": "r-1Nccri"
-      }
-    },
-    "n-7AjVf2": {
-      "type": "text",
-      "data": {
-        "text": "Every evening, as the sun began its descent, Clara would find herself drawn to the edge of the cliff overlooking the vast ocean. The sunsets here were unlike any she had seen before, painting the sky with hues of orange, pink, and purple that seemed to dance on the waves below. The rhythmic sound of the crashing waves provided a soothing soundtrack to the visual symphony unfolding before her. This ritual had become a sacred part of her day, a moment of peace and reflection amidst the chaos of life.\n\nAs the sun dipped lower, the colors grew more intense, casting a golden glow over everything. Clara often pondered the stories the sun might tell if it could speak—tales of distant lands and people it had warmed throughout the day. She imagined the sun as a tireless traveler, journeying across the sky, witnessing the world in all its beauty and turmoil. These thoughts filled her with a sense of wonder and connection to the world beyond her own immediate surroundings.\n\nOn one particular evening, as the horizon swallowed the last sliver of sunlight, Clara felt a profound sense of gratitude. The sunset was a reminder of the beauty in endings and the promise of new beginnings. As the first stars began to twinkle in the deepening twilight, she made her way back home, carrying with her the warmth and serenity of the sunset. It was a reminder that no matter how turbulent the day had been, there would always be another sunset to look forward to, another chance to pause and appreciate the simple, yet profound, beauty of the world.",
-        "type": "paragraph"
-      }
-    },
-    "n-i1zTVb": {
-      "type": "text",
-      "data": {
-        "type": "h4",
-        "text": ""
-      }
-    },
-    "n-YUnMN3": {
-      "type": "text",
-      "data": {
-        "text": "",
-        "type": "paragraph"
-      }
-    },
-    "n-Ei7mst": {
-      "type": "attribution",
-      "data": {
-        "content": "",
-        "attribution": ""
-      }
-    },
     "n-i849Y8": {
       "type": "credits",
       "children": [
@@ -158,7 +115,7 @@
       "type": "story-theme",
       "data": {
         "themeBaseVariableOverrides": {},
-        "themeId": "obsidian"
+        "themeId": "tidal"
       }
     }
   }
